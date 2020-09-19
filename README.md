@@ -36,6 +36,8 @@
 
 ## 設計書
 設計書、作成途中
+aboutページのサンプル
+![elepeer_sample](https://user-images.githubusercontent.com/67004902/93666945-2e410f00-fabd-11ea-89fc-c2b340c4666e.png)
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/10aaNIQAaExD_52dwe3VUs9CuC0pBwIfWsop9l3437v8/edit?usp=sharing
