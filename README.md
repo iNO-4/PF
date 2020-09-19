@@ -1,6 +1,6 @@
 # PF-1
 
-# <アプリ名>
+# アプリ名
 エレピア
 (エレキ＝電気 ＋ ピア＝仲間)
 
@@ -38,7 +38,7 @@
 設計書、作成途中
 
 ### 機能一覧
-https://docs.google.com/spreadsheets/d/10aaNIQAaExD_52dwe3VUs9CuC0pBwIfWsop9l3437v8/edit#gid=0
+https://docs.google.com/spreadsheets/d/10aaNIQAaExD_52dwe3VUs9CuC0pBwIfWsop9l3437v8/edit?usp=sharing
 
 ## 開発環境
 - OS：Mac
